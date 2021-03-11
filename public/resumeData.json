@@ -1,0 +1,121 @@
+{
+  "main": {
+    "name": "Adash Gurung",
+    "occupation": "Front-end Developer",
+    "description": "Eat, Sleep, Code, Repeat.",
+    "image": "adash2.png",
+    "bio":  "I have a passion for coding and challenging myself creatively. Using a minimalist asthetic, I create simple responsive websites with a whimsical twist. I enjoy learning new skills daily, and staying connected and involved with my fellow developers",
+    "contactmessage": "Get in touch with me",
+    "email": "adash.grg@outlook.com",
+    "phone": "+44 7447925410",
+    "address": {
+      "street": "123 Dev Lane",
+      "city": "London",
+      "state": "Feltham",
+      "zip": "W3B D3V"
+    },
+    "website": "https://www.papareact.com/course",
+    "resumedownload": "https://my.indeed.com/p/adharshg-qgs7w8y",
+    "social": [
+     
+      
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/adash-gurung",
+        "className": "fa fa-linkedin"
+      },
+     
+      {
+        "name": "github",
+        "url": "https://github.com/adashleo",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Kingston University - UK",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "July 2017"
+        
+      }
+    ],
+    "work": [
+      {
+        "company": "PAPA",
+        "title": "Founder and CEO",
+        "years": "May 2019 - Present",
+        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+     
+      {
+        "name": "Git",
+        "level": "50%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "60%"
+      },
+      {
+        "name": "Web Development",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Netflix Clone (React/Redux/Stripe)",
+        "category": "",
+        "image": "netflix.png",
+        "url": "https://netflix-redux-57791.web.app/"
+      },
+      {
+        "title": "Amazon Clone (ReactJS/Stripe)",
+        "category": "",
+        "image": "amazon.png",
+        "url": " https://clone-319f0.web.app/"
+      },
+
+
+     
+      {
+        "title": "Social Media App (ReactJS/Firebase)",
+        "category": "",
+        "image": "fb2.png",
+        "url": "https://social-network-23789.web.app"
+      },
+
+      {
+        "title": "Chat Application (ReactJS/Redux/Firebase)",
+        "category": "",
+        "image": "im.png",
+        "url": "https://imessage-clone-273f7.web.app/"
+      }
+
+     
+
+   
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Jorge Fouto"
+      },
+      {
+        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Adam Curtis"
+      }
+    ]
+  }
+}

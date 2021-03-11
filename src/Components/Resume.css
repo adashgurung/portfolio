@@ -1,0 +1,8 @@
+.logos > img {
+  object-fit: contain;
+  height: 100px;
+}
+
+.firebase {
+  width: 190px;
+}
