@@ -22,6 +22,7 @@ const Header = ({ data }) => {
   return (
     <div>
       <video
+        playsInline
         autoPlay
         loop
         muted

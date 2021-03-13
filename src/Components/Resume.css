@@ -1,8 +1,67 @@
 .logos > img {
   object-fit: contain;
   height: 100px;
+  /*   width: 150px; */
 }
 
-.firebase {
+.react {
+  width: 170px;
+}
+
+.material-ui {
   width: 190px;
+}
+.firebase {
+  width: 160px;
+}
+
+.html {
+  height: 80px;
+}
+
+.css {
+}
+
+.github {
+  width: 150px;
+}
+
+span {
+  z-index: 9;
+}
+
+.logos {
+  /*   display: flex; */
+  align-items: center;
+  /*   white-space: nowrap; */
+  /*   background: red; */
+  /*   display: inline; */
+}
+.logos__container {
+  /*   background: red; */
+  position: relative;
+  /* animation: mymove 5s linear infinite; */
+  /*  animation-delay: 40s; */
+  /*  animation-iteration-count: infinite; */
+  /* max-width: 500px; */
+}
+
+/* @keyframes mymove {
+  from {
+    left: 0px;
+  }
+  to {
+      left: 100vw;
+    left: 660px;
+  }
+} */
+
+@keyframes mymove {
+  100% {
+    left: 0px;
+    transform: translateX(-100%);
+  }
+  100% {
+    transform: translateX(100%);
+  }
 }
