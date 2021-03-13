@@ -21,6 +21,7 @@ const Header = ({ data }) => {
 
   return (
     <div>
+      {/* playsInline autoplay on mobile devices */}
       <video
         playsInline
         autoPlay
