@@ -86,20 +86,20 @@
       },
 
 
-     
-      {
-        "title": "Social Media App (ReactJS/Firebase)",
-        "category": "",
-        "image": "fb2.png",
-        "url": "https://social-network-23789.web.app"
-      },
-
       {
         "title": "Chat Application (ReactJS/Redux/Firebase)",
         "category": "",
         "image": "im.png",
         "url": "https://imessage-clone-273f7.web.app/"
+      },
+     
+      {
+        "title": "Social Media App 🛠 In development (ReactJS/Firebase)",
+        "category": "",
+        "image": "fb2.png",
+        "url": "https://social-network-23789.web.app"
       }
+
 
      
 
