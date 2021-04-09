@@ -96,7 +96,7 @@ const Resume = ({ data }) => {
             />
             <img
               className="github"
-              src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Logo.png"
+              src="https://cdn.freebiesupply.com/logos/thumbs/2x/git-logo.png"
               alt=""
             />
             <img
